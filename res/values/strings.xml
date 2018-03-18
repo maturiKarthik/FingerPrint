@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FingerPrint</string>
+    <string name="textview">This is a sample App to Activate the Finger print features in Android SDK 23 and above</string>
+    <string name="hint1">This TextView will display The Android Version </string>
+</resources>
